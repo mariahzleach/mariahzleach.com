@@ -1,6 +1,6 @@
 # Hello, my name is Mariah Z. Leach and this is a website!
 
-![MacDown logo](http://macdown.uranusjr.com/static/images/logo-160.png)
+![Mariah Z. Leach headshot](https://www.arthritis.com/sites/default/files/mariah-img_1_0.jpg)
 
 
 Let me introduce myself.
