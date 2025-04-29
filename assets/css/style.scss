@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 body {
   margin: 0;
-  padding: 0;background-image: radial-gradient(transparent, white), url('https://mariahzleach.com/images/background.jpg');
+  padding: 0;background-image: linear-gradient(to right, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%), url('https://mariahzleach.com/images/background.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
