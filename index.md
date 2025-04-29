@@ -1,7 +1,6 @@
 ---
 title: "Mariah Z. Leach"
 author: "Mariah"
-# date: "12/1/2019"
 output: 
   html_document:
     css: assets/css/style.scss
