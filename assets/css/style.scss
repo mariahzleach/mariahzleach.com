@@ -1,21 +1,4 @@
-body {
-  margin: 0;
-  padding: 0;
-  background-image: radial-gradient(transparent, white),
-    url('https://mariahzleach.com/images/background.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  background-position: center;
-  font-family: Arial, sans-serif;
-  color: white;
-}
+---
+---
 
-.content {
-  padding: 100px 20px;
-  max-width: 600px;
-  text-align: left;
-  background-color: rgba(255, 255, 255, 0.5); /* White with 50% opacity */
-  margin: 50px;
-  border-radius: 10px;
-}
+@import "{{ site.theme }}";
