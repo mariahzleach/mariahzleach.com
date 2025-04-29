@@ -4,11 +4,16 @@
 @import "{{ site.theme }}";
 
 body {
+  margin: 0;
+  padding: 0;
   background-image: radial-gradient(transparent, white),
     url('../../images/background.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
+  background-position: center;
+  font-family: Arial, sans-serif;
+  color: white;
 }
 
 wrapper {
@@ -23,4 +28,13 @@ wrapper {
       1px -1px 0 #000,
       -1px 1px 0 #000,
        1px 1px 0 #000;
+}
+
+.content {
+  padding: 100px 20px;
+  max-width: 600px;
+  text-align: left;
+  background-color: rgba(0, 0, 0, 0.5); /* Black with 50% opacity */
+  margin: 50px;
+  border-radius: 10px;
 }
