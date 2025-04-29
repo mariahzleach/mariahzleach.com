@@ -4,7 +4,7 @@ author: "Mariah"
 # date: "12/1/2019"
 output: 
   html_document:
-    css: main.css
+    css: assets/css/style.scss
 ---
 
 ![Mariah Z. Leach headshot](https://www.arthritis.com/sites/default/files/mariah-img_1_0.jpg)
