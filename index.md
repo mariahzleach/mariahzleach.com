@@ -18,4 +18,7 @@ Mariah graduated with honors from Princeton University in 2005, and completed a 
 Mariah’s writing has also been published in a variety of health-oriented websites and magazines, including: Arthritis Today, Health Union, Healthline, the INVisible Project, Rheumatology Network, Rheumatology Nurse Practice, and Women magazine. Her writing blends practical advice, emotional honesty, and a deep commitment to helping others live fully—no matter the challenges. She is currently working on a memoir about pregnancy with chronic illness.
 
 Get in touch: 
-**hello (at) mariahzleach.com**
+***hello (at) mariahzleach.com***
+[LinkedIn](https://www.linkedin.com/in/mariahzebrowski/)
+[Mariah Leach on Instagram](https://www.instagram.com/fromthispoint.forward)
+[Mamas Facing Forward on Instagram](https://www.instagram.com/mamasforward/)
