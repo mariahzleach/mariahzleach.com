@@ -6,7 +6,7 @@ output:
     css: /assets/css/style.scss
 ---
 
-![Mariah Z. Leach headshot](https://www.arthritis.com/sites/default/files/mariah-img_1_0.jpg)
+![Mariah Z. Leach headshot](https://mariahzleach.com/images/mzl-background.jpg)
 
 
 Mariah Z. Leach (she/her/hers) is a writer, patient advocate, and mother of three based in Colorado. Diagnosed with severe rheumatoid arthritis at the age of 25, she has transformed her personal health challenges into a mission to support others who are navigating similar paths. 
