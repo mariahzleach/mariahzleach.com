@@ -15,7 +15,9 @@ She launched her advocacy work in 2008 with her award-winning personal blog, [Fr
 
 Mariah graduated with honors from Princeton University in 2005, and completed a dual degree program at the University of Colorado in 2010, earning a JD and an MS in environmental science. She has co-authored two books: [Hydrocarbon Hucksters: Lessons from Louisiana on Oil, Politics, and Environmental Justice](https://www.goodreads.com/book/show/17783332-hydrocarbon-hucksters) (2014) and [International Environmental Law in a Nutshell, 5th Edition](https://www.goodreads.com/book/show/35519769-international-environmental-law-in-a-nutshell) (2017). 
 
-Mariah’s writing has also been published in a variety of health-oriented websites and magazines, including: Arthritis Today, Health Union, Healthline, the INVisible Project, Rheumatology Network, Rheumatology Nurse Practice, and Women magazine. Her writing blends practical advice, emotional honesty, and a deep commitment to helping others live fully—no matter the challenges. She is currently working on a memoir about pregnancy with chronic illness.
+Mariah has also been published in a variety of health-oriented websites and magazines, including: Arthritis Today, Health Union, Healthline, the INVisible Project, Rheumatology Network, Rheumatology Nurse Practice, and Women magazine. Most recently, she contributed an essay to [The Book Of Alchemy: A Creative Practice for an Inspired Life](https://www.goodreads.com/book/show/217245588-the-book-of-alchemy) by Suleika Jaouad. 
+
+Her work blends practical advice, emotional honesty, and a deep commitment to helping others live fully—no matter the challenges. She is currently working on a memoir about pregnancy with chronic illness.
 
 Get in touch:
 

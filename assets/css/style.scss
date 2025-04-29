@@ -2,3 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+background-image: radial-gradient(transparent, white),
+    url('https://mariahzleach.com/images/background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  font-family: Arial, sans-serif;
+  color: white;
