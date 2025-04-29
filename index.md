@@ -1,3 +1,12 @@
+---
+title: "Mariah Z. Leach"
+author: "Mariah"
+# date: "12/1/2019"
+output: 
+  html_document:
+    css: main.css
+---
+
 ![Mariah Z. Leach headshot](https://www.arthritis.com/sites/default/files/mariah-img_1_0.jpg)
 
 
