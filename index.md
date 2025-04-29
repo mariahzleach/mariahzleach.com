@@ -16,4 +16,6 @@ She launched her advocacy work in 2008 with her award-winning personal blog, Fro
 
 Mariah graduated with honors from Princeton University in 2005, and completed a dual degree program at the University of Colorado in 2010, earning a JD and MS in environmental science. She has co-authored two books: Hydrocarbon Hucksters: Lessons from Louisiana on Oil, Politics, and Environmental Justice (2014) and International Environmental Law in a Nutshell, 5th Edition (2017). Mariah’s writing has also been published in a variety of health-oriented websites and magazines, including: Arthritis Today, Health Union, Healthline, the INVisible Project, Rheumatology Network, Rheumatology Nurse Practice, and Women magazine. Her writing blends practical advice, emotional honesty, and a deep commitment to helping others live fully—no matter the challenges. She is currently working on a memoir about pregnancy with chronic illness.
 
-Get in touch: **hello (at) mariahzleach.com**
+Get in touch: 
+[MamasFacingForward.com](https://www.mamasfacingforward.com)
+**hello (at) mariahzleach.com**
