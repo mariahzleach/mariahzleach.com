@@ -1,5 +1,3 @@
-# Hello, my name is Mariah Z. Leach and this is a website!
-
 ![Mariah Z. Leach headshot](https://www.arthritis.com/sites/default/files/mariah-img_1_0.jpg)
 
 
