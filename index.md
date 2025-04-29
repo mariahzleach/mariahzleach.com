@@ -3,7 +3,7 @@ title: "Mariah Z. Leach"
 author: "Mariah"
 output: 
   html_document:
-    css: assets/css/style.scss
+    css: /assets/css/style.scss
 ---
 
 ![Mariah Z. Leach headshot](https://www.arthritis.com/sites/default/files/mariah-img_1_0.jpg)
