@@ -4,7 +4,8 @@
 @import "{{ site.theme }}";
 body {
   margin: 0;
-  padding: 0;background-image: linear-gradient(to right, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%), url('https://mariahzleach.com/images/balloonfiesta.jpg');
+  padding: 0;
+  background-image: url('https://mariahzleach.com/images/balloonfiesta.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
