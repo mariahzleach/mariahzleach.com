@@ -9,7 +9,7 @@ output:
 ![Mariah Z. Leach headshot](https://mariahzleach.com/images/mzl-background.jpg)
 
 
-##Mariah Z. Leach## (she/her/hers) is a writer, patient advocate, and mother of three based in Colorado. Diagnosed with severe rheumatoid arthritis at the age of 25, she has transformed her personal health challenges into a mission to support others who are navigating similar paths. 
+**Mariah Z. Leach** (she/her/hers) is a writer, patient advocate, and mother of three based in Colorado. Diagnosed with severe rheumatoid arthritis at the age of 25, she has transformed her personal health challenges into a mission to support others who are navigating similar paths. 
 
 She launched her advocacy work in 2008 with her award-winning personal blog, [From This Point. Forward](http://www.fromthispointforward.com), chronicling her life as a young graduate student adjusting to a life-changing diagnosis. After learning firsthand how challenging and lonely it can be to face pregnancy and motherhood with chronic illness, Mariah launched [Mamas Facing Forward](https://www.facebook.com/groups/mamasfacingforward), a private Facebook support group, which later expanded into [MamasFacingForward.com](https://www.mamasfacingforward.com), dedicated to providing resources and support for parents and parents-to-be with chronic illness.
 
@@ -19,7 +19,7 @@ Mariah has also been published in a variety of health-oriented websites and maga
 
 Her work blends practical advice, emotional honesty, and a deep commitment to helping others live fully—no matter the challenges. She is currently working on a memoir about pregnancy with chronic illness.
 
-##Get in touch:##
+**Get in touch:**
 
 hello (at) mariahzleach.com
 
